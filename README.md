@@ -20,4 +20,12 @@ leet-code-solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/PrashantYadav2412/leet-code/tree/main/C++/Easy/0001-two-sum/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/PrashantYadav2412/leet-code/tree/main/C++/Easy/0020-valid-parentheses/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/PrashantYadav2412/leet-code/tree/main/C++/Easy/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
