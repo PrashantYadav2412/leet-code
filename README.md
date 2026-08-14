@@ -30,4 +30,8 @@ leet-code-solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/PrashantYadav2412/leet-code/tree/main/C++/Easy/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/PrashantYadav2412/leet-code/tree/main/C++/Easy/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
