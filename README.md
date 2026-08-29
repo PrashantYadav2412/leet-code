@@ -31,6 +31,7 @@ leet-code-solution
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/PrashantYadav2412/leet-code/tree/main/C++/Easy/0020-valid-parentheses/) | Easy |
 | [0225-implement-stack-using-queues](https://github.com/PrashantYadav2412/leet-code/tree/main/C++/Easy/0225-implement-stack-using-queues/) | Easy |
+| [0901-online-stock-span](https://github.com/PrashantYadav2412/leet-code/tree/main/C++/Medium/0901-online-stock-span/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,8 +40,17 @@ leet-code-solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/PrashantYadav2412/leet-code/tree/main/C++/Easy/0225-implement-stack-using-queues/) | Easy |
+| [0901-online-stock-span](https://github.com/PrashantYadav2412/leet-code/tree/main/C++/Medium/0901-online-stock-span/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/PrashantYadav2412/leet-code/tree/main/C++/Easy/0225-implement-stack-using-queues/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/PrashantYadav2412/leet-code/tree/main/C++/Medium/0901-online-stock-span/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/PrashantYadav2412/leet-code/tree/main/C++/Medium/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->
