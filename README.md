@@ -53,4 +53,8 @@ leet-code-solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/PrashantYadav2412/leet-code/tree/main/C++/Medium/0901-online-stock-span/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2235-add-two-integers](https://github.com/PrashantYadav2412/leet-code/tree/main/C++/Easy/2235-add-two-integers/) | Easy |
 <!---LeetCode Topics End-->
