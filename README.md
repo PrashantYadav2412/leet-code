@@ -8,6 +8,7 @@ leet-code-solution
 | ------- | ------- |
 | [0001-two-sum](https://github.com/PrashantYadav2412/leet-code/tree/main/C++/Easy/0001-two-sum/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PrashantYadav2412/leet-code/tree/main/C++/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/PrashantYadav2412/leet-code/tree/main/C++/Easy/1480-running-sum-of-1d-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,4 +58,8 @@ leet-code-solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2235-add-two-integers](https://github.com/PrashantYadav2412/leet-code/tree/main/C++/Easy/2235-add-two-integers/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/PrashantYadav2412/leet-code/tree/main/C++/Easy/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
