@@ -7,11 +7,13 @@ leet-code-solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/PrashantYadav2412/leet-code/tree/main/C++/Easy/0001-two-sum/) | Easy |
+| [0015-3sum](https://github.com/PrashantYadav2412/leet-code/tree/main/C++/Medium/0015-3sum/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PrashantYadav2412/leet-code/tree/main/C++/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/PrashantYadav2412/leet-code/tree/main/C++/Easy/1480-running-sum-of-1d-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/PrashantYadav2412/leet-code/tree/main/C++/Medium/0015-3sum/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PrashantYadav2412/leet-code/tree/main/C++/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0344-reverse-string](https://github.com/PrashantYadav2412/leet-code/tree/main/C++/Easy/0344-reverse-string/) | Easy |
 ## Binary Search
@@ -62,4 +64,8 @@ leet-code-solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/PrashantYadav2412/leet-code/tree/main/C++/Easy/1480-running-sum-of-1d-array/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0015-3sum](https://github.com/PrashantYadav2412/leet-code/tree/main/C++/Medium/0015-3sum/) | Medium |
 <!---LeetCode Topics End-->
